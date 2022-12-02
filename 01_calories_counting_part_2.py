@@ -1,4 +1,3 @@
-
 calories_list = []
 sum_of_calories = 0
 
